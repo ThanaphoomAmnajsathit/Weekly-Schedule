@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeeklySchedule</string>
+    <string name="weekly_schedule_title">Weekly Schedule</string>
+    <string name="select_day_range_sheet_title">Select Day Range</string>
+
+    <plurals name="days_plural_format">
+        <item quantity="one">%d Day</item>
+        <item quantity="other">%d Days</item>
+    </plurals>
+</resources>
